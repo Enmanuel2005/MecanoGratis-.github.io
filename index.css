@@ -41,6 +41,10 @@ header a:hover{
     font-weight: bold;
     text-decoration: underline;
 }
+
+header p:hover{
+    cursor: pointer;
+}
 /* FIN HEADER */
 
 /* INICIO HERO */
